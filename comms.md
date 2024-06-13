@@ -5,7 +5,7 @@ title: Schedule
 
 ## Workshop Schedule 📯
 
-8 September 2023
+7 September 2024
 
 | Time | Title             |
 |------|-------------------|
