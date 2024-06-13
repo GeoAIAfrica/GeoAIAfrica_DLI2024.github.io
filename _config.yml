@@ -7,14 +7,14 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            TrustAI Workshop 2023
-tagline:          'TrustAI Workshop 2023'
+title:            GeoAI for a Sustainable Future in Africa Workshop 2024
+tagline:          'GeoAI for a Sustainable Future in Africa Workshop 2024'
 description:      ''
-url:              'http://trustaideepindaba.github.io/'
+url:              'http://GeoAIAfrica_DLI2024.github.io/'
 baseurl:          ''
 
 author:
-  name:           'TrustAI team'
+  name:           'GeoAI Africa team'
 
 paginate:         5
 # Custom vars
