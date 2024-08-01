@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## The GeoAI for a Sustainable Future in Africa Workshop @ DeepIndaba 2024
+#### The GeoAI for a Sustainable Future in Africa Workshop @ DeepIndaba 2024
 
 Geospatial AI (GeoAI) has immense potential to address critical challenges across Africa including food security, disaster response, urban development, climate action, public health, and more. Our workshop aims to provide a forum for practitioners, researchers, engineers, and domain experts to discuss the current challenges, advancements, and ethical considerations in applied GeoAI for Africa through a series of curated presentations, panel discussions, posters, and networking sessions. We also aim to organize an educational practical on the field of geospatial machine learning (ML), open to a larger audience. Key topics will include remote sensing, spatial analytics, and data-driven geospatial ML for sustainable development.
 This workshop is mainly organized by members of GeoAI Africa, a community dedicated to using geospatial data and ML technologies to tackle various critical challenges across Africa, from urban development and agriculture to climate action and disaster response
