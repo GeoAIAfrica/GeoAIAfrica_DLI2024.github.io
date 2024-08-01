@@ -32,4 +32,14 @@ This workshop is a successor to previous events such as:
 
 ## Organizers
 
--  [Gilles Quentin Hacheme](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca) Microsoft AI For Good Lab, Kenya)
+-  [Gilles Quentin Hacheme](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca)Sr Research Scientist, Microsoft AI for Good Research Lab, Kenya)
+-  [Akram Zaytar](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca) Sr Research Scientist, Microsoft AI for Good Research Lab, Kenya)
+-  [Girmaw Abebe Tadesse](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca) Principal Research Science Manager, Microsoft AI for Good Research Lab, Kenya)
+-  [William Ogallo](https://www.linkedin.com/in/william-ogallo-50a89b27/?originalSubdomain=ke) Senior Research Scientist at Google.
+-  [Sabrina Amrouche](https://www.linkedin.com/in/sabrina-amrouche-a3934355/) Head of Data Science, ZYTLYN.
+-  [Simone Fobi Nsutezo](https://www.microsoft.com/en-us/research/people/sfobinsutezo/) Sr Research Scientist, Microsoft AI for Good Research Lab.
+-  [Julian Kuehnert](https://www.linkedin.com/in/juliankuehnert/?locale=en_US) Research Scientist, IBM Research.
+-  [Sekou L. Remy](https://scholar.google.com/citations?user=GpzlXd4AAAAJ&hl=en) Sr Research Scientist, Google Research.
+-  [Ibrahim Salihu Yusuf](https://www.linkedin.com/in/ibrahim-salihu-yusuf-721103100/recent-activity/all/)  Research Engineer, InstaDeep.
+-  [Arnu Pretorius](https://x.com/arnupretorius?lang=en)  Lead and Sr Research Scientist, InstaDeep.
+-  [Serah Peter-Adeoye](https://www.linkedin.com/in/serahpeter-adeoye/?originalSubdomain=ng)  Geo-spatial Data Scientist, DSNai.
