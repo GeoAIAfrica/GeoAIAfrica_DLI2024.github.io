@@ -34,7 +34,7 @@ This workshop is a successor to previous events such as:
 
 -  [Gilles Quentin Hacheme](https://www.linkedin.com/in/gilles-q-hacheme-a0956ab7/) Senior Research Scientist, Microsoft AI for Good Research Lab.
 -  [Akram Zaytar](https://www.linkedin.com/in/akramz/) Senior Research Scientist, Microsoft AI for Good Research Lab.
--  [Simone Fobi Nsutezo](https://www.linkedin.com/in/simone-fobi/) Sr Research Scientist, Microsoft AI for Good Research Lab.
+-  [Simone Fobi Nsutezo](https://www.linkedin.com/in/simone-fobi/) Senior Research Scientist, Microsoft AI for Good Research Lab.
 -  [Serah Peter-Adeoye](https://www.linkedin.com/in/serahpeter-adeoye/)  Geo-spatial Data Scientist, DSNai.
 -  [Julian Kuehnert](https://www.linkedin.com/in/juliankuehnert/?locale=en_US) Research Scientist, IBM Research.
 -  [Girmaw Abebe Tadesse](https://www.linkedin.com/in/girmaw-abebe-tadesse/) Principal Research Science Manager, Microsoft AI for Good Research Lab.
