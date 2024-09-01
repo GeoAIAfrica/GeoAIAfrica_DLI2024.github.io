@@ -32,14 +32,14 @@ This workshop is a successor to previous events such as:
 
 ## Organizers
 
--  [Gilles Quentin Hacheme](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca)Sr Research Scientist, Microsoft AI for Good Research Lab, Kenya)
--  [Akram Zaytar](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca) Sr Research Scientist, Microsoft AI for Good Research Lab, Kenya)
--  [Girmaw Abebe Tadesse](https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca) Principal Research Science Manager, Microsoft AI for Good Research Lab, Kenya)
--  [William Ogallo](https://www.linkedin.com/in/william-ogallo-50a89b27/?originalSubdomain=ke) Senior Research Scientist at Google.
--  [Sabrina Amrouche](https://www.linkedin.com/in/sabrina-amrouche-a3934355/) Head of Data Science, ZYTLYN.
--  [Simone Fobi Nsutezo](https://www.microsoft.com/en-us/research/people/sfobinsutezo/) Sr Research Scientist, Microsoft AI for Good Research Lab.
+-  [Gilles Quentin Hacheme](https://www.linkedin.com/in/gilles-q-hacheme-a0956ab7/) Senior Research Scientist, Microsoft AI for Good Research Lab.
+-  [Akram Zaytar](https://www.linkedin.com/in/akramz/) Senior Research Scientist, Microsoft AI for Good Research Lab.
+-  [Simone Fobi Nsutezo](https://www.linkedin.com/in/simone-fobi/) Sr Research Scientist, Microsoft AI for Good Research Lab.
+-  [Serah Peter-Adeoye](https://www.linkedin.com/in/serahpeter-adeoye/)  Geo-spatial Data Scientist, DSNai.
 -  [Julian Kuehnert](https://www.linkedin.com/in/juliankuehnert/?locale=en_US) Research Scientist, IBM Research.
--  [Sekou L. Remy](https://scholar.google.com/citations?user=GpzlXd4AAAAJ&hl=en) Sr Research Scientist, Google Research.
--  [Ibrahim Salihu Yusuf](https://www.linkedin.com/in/ibrahim-salihu-yusuf-721103100/recent-activity/all/)  Research Engineer, InstaDeep.
--  [Arnu Pretorius](https://x.com/arnupretorius?lang=en)  Lead and Sr Research Scientist, InstaDeep.
--  [Serah Peter-Adeoye](https://www.linkedin.com/in/serahpeter-adeoye/?originalSubdomain=ng)  Geo-spatial Data Scientist, DSNai.
+-  [Girmaw Abebe Tadesse](https://www.linkedin.com/in/girmaw-abebe-tadesse/) Principal Research Science Manager, Microsoft AI for Good Research Lab.
+-  [Sekou L. Remy](https://www.linkedin.com/in/sekoulremy/) Senior Research Scientist, Google Research.
+-  [Sabrina Amrouche](https://www.linkedin.com/in/sabrina-amrouche-a3934355/) Head of Data Science, ZYTLYN.
+-  [William Ogallo](https://www.linkedin.com/in/william-ogallo-50a89b27/) Senior Research Scientist at Google.
+-  [Ibrahim Salihu Yusuf](https://www.linkedin.com/in/ibrahim-salihu-yusuf-721103100/)  Research Engineer, InstaDeep.
+-  [Arnu Pretorius](https://www.linkedin.com/in/arnupretorius/)  Lead and Sr Research Scientist, InstaDeep.
